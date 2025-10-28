@@ -1,1 +1,2 @@
 # Diabetes-Analysis-using-ML-Project
+This project aims to predict whether a person is diabetic or not based on their medical data using machine learning algorithms. It uses patient health parameters such as glucose level, BMI, age, insulin, and blood pressure as inputs. Algorithms like Logistic Regression, Random Forest, Decision Tree, and SVM are trained on a dataset (e.g., PIMA Indian Diabetes Dataset). After training, the model predicts diabetes risk for new patients with high accuracy.
